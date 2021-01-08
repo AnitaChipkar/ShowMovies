@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie CtA</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_release_date">Movie Release Date</string>
+    <string name="movie_adult">(U/A)</string>
+
+    <string name="movie_list">movie list</string>
+    <string name="movie_info">movie info</string>
+    <string name="generic_server_down">Server is down, please try again later.</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_items_in_the_list">Please add an appliance.</string>
+    <string name="generic_error">Server error occurred, please try again later</string>
+    //Custom Dialog
+    <string name="error_ok">Okay</string>
+    <string name="menu_info">Info</string>
+    <string name="tv_developed_by">Developed by \n Anita Chipkar</string>
+</resources>
